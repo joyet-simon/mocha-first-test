@@ -4,7 +4,8 @@
   "description": "",
   "main": "testUnitaire2.js",
   "dependencies": {
-    "chai": "^4.2.0"
+    "chai": "^4.2.0",
+    "cordova": "^8.1.2"
   },
   "devDependencies": {
     "mocha": "^5.2.0"
